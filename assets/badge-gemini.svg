@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="32" viewBox="0 0 104 32" role="img" aria-label="Gemini">
+  <title>Gemini</title>
+  <rect width="104" height="32" rx="4" fill="#5965C8"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m21 8 2.5 5.5L29 16l-5.5 2.5L21 24l-2.5-5.5L13 16l5.5-2.5Z"/>
+  </g>
+  <text x="38" y="20.5" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Gemini</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="32" viewBox="0 0 104 32" role="img" aria-label="Pandas">
+  <title>Pandas</title>
+  <rect width="104" height="32" rx="4" fill="#6245A1"/>
+  <g fill="#FFFFFF">
+    <rect x="13" y="12" width="4" height="11" rx="0.6"/>
+    <rect x="19" y="9" width="4" height="14" rx="0.6"/>
+    <rect x="25" y="14" width="4" height="9" rx="0.6"/>
+  </g>
+  <text x="38" y="20.5" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Pandas</text>
+</svg>

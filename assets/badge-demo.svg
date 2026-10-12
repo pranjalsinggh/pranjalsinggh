@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="32" viewBox="0 0 124 32" role="img" aria-label="Live Demo">
+  <title>Live Demo</title>
+  <rect width="124" height="32" rx="4" fill="#5354C7"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 10h7v7m0-7L18 20m-2-8h-2v12h12v-2"/>
+  </g>
+  <text x="38" y="20.5" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Live Demo</text>
+</svg>

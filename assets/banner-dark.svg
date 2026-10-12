@@ -1,27 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title desc">
-  <title id="title">Pranjal — AI, data and web development</title>
-  <desc id="desc">A clean navy banner with an abstract data-to-insights illustration.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="270" viewBox="0 0 960 270" role="img" aria-labelledby="title desc">
+  <title id="title">Pranjal — AI applications, full-stack development and data analysis</title>
+  <desc id="desc">A navy, indigo and blue gradient banner with a centered introduction and flowing waves.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111b2e"/><stop offset="1" stop-color="#162740"/></linearGradient>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0.7">
+      <stop stop-color="#0f172a"/>
+      <stop offset="0.52" stop-color="#312e81"/>
+      <stop offset="1" stop-color="#036f99"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#7dd3fc" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#7dd3fc" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="edge">
+      <path d="M18 0H942Q960 0 960 18V216C792 266 647 206 476 226S165 271 0 226V18Q0 0 18 0Z"/>
+    </clipPath>
   </defs>
-  <rect x="1" y="1" width="958" height="218" rx="16" fill="url(#bg)" stroke="#2c405e"/>
-  <rect x="40" y="39" width="30" height="4" rx="2" fill="#79aaff"/>
-  <text x="40" y="80" fill="#a9bcd9" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="3">AI / DATA / WEB</text>
-  <text x="37" y="137" fill="#f1f5fc" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5">Pranjal</text>
-  <text x="40" y="178" fill="#b4c4dd" font-family="Segoe UI, Arial, sans-serif" font-size="20">Building useful tools. Finding meaningful insights.</text>
-  <g fill="none" stroke="#3e587e" stroke-width="1.5">
-    <path d="M700 56H741Q757 56 757 73V109H801"/>
-    <path d="M686 110H801"/>
-    <path d="M700 164H741Q757 164 757 147V111H801"/>
-    <rect x="652" y="38" width="49" height="36" rx="8"/>
-    <rect x="637" y="92" width="49" height="36" rx="8"/>
-    <rect x="652" y="146" width="49" height="36" rx="8"/>
+  <path d="M0 224C168 267 310 235 480 239S790 271 960 226V240C790 281 656 245 484 251S169 282 0 242Z" fill="url(#wave)" opacity="0.15"/>
+  <path d="M0 217C164 264 306 220 477 227S792 264 960 215V231C790 270 650 228 478 242S164 274 0 237Z" fill="url(#wave)" opacity="0.28"/>
+  <g clip-path="url(#edge)">
+    <rect width="960" height="270" fill="url(#background)"/>
+    <ellipse cx="772" cy="66" rx="290" ry="160" fill="url(#glow)"/>
+    <g fill="none" stroke="#a5b4fc" stroke-width="1" opacity="0.10">
+      <path d="M-80 50C105-43 235 118 353 17S650-59 748 14S931 77 1050-1"/>
+      <path d="M-80 67C105-26 235 135 353 34S650-42 748 31S931 94 1050 16"/>
+      <path d="M-80 84C105-9 235 152 353 51S650-25 748 48S931 111 1050 33"/>
+    </g>
+    <g fill="none" stroke="#a5b4fc" stroke-width="1" opacity="0.19">
+      <circle cx="83" cy="146" r="25"/>
+      <circle cx="83" cy="146" r="39"/>
+      <path d="M83 107V121M83 171V185M44 146H58M108 146H122"/>
+      <circle cx="877" cy="132" r="25"/>
+      <circle cx="877" cy="132" r="39"/>
+      <path d="M877 93V107M877 157V171M838 132H852M902 132H916"/>
+    </g>
+    <g fill="#7dd3fc" opacity="0.45">
+      <circle cx="83" cy="146" r="3"/>
+      <circle cx="877" cy="132" r="3"/>
+      <circle cx="177" cy="57" r="2"/>
+      <circle cx="808" cy="187" r="2"/>
+    </g>
+    <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">
+      <text x="480" y="62" fill="#b6c9ef" font-size="13" font-weight="600" letter-spacing="4">HELLO, I'M</text>
+      <text x="480" y="134" fill="#f8fafc" font-size="64" font-weight="700" letter-spacing="-1.5">Pranjal</text>
+      <text x="480" y="179" fill="#dbeafe" font-size="20" font-weight="400">AI Applications | Full-Stack Development | Data Analysis</text>
+    </g>
+    <rect x="450" y="203" width="60" height="3" rx="1.5" fill="#7dd3fc" opacity="0.8"/>
   </g>
-  <g fill="#7795be"><rect x="664" y="49" width="25" height="3" rx="1.5"/><rect x="664" y="58" width="16" height="3" rx="1.5"/><rect x="649" y="103" width="25" height="3" rx="1.5"/><rect x="649" y="112" width="16" height="3" rx="1.5"/><rect x="664" y="157" width="25" height="3" rx="1.5"/><rect x="664" y="166" width="16" height="3" rx="1.5"/></g>
-  <rect x="801" y="69" width="97" height="82" rx="14" fill="#1b2c46" stroke="#3e587e" stroke-width="1.5"/>
-  <path d="M820 129H879" stroke="#3e587e" stroke-width="1.5"/>
-  <rect x="824" y="109" width="10" height="15" rx="2" fill="#3d6194"/>
-  <rect x="841" y="96" width="10" height="28" rx="2" fill="#5288da"/>
-  <rect x="858" y="84" width="10" height="40" rx="2" fill="#79aaff"/>
-  <circle cx="757" cy="110" r="4" fill="#79aaff"/>
 </svg>
