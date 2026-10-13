@@ -120,7 +120,7 @@ Hands-on practice with the foundations behind data analysis:
 <br>
 
 <a href="https://github.com/pranjalsinggh#js-contribution-activity-description">
-  <img src="https://streak-stats.demolab.com?user=pranjalsinggh&amp;theme=github-dark-blue&amp;hide_border=true&amp;timezone=Asia%2FKolkata&amp;mode=daily&amp;disable_animations=true" width="495" alt="Pranjal's GitHub contribution streak and all-time publicly visible contributions">
+  <img src="https://streak-stats.demolab.com?user=pranjalsinggh&amp;theme=github-dark-blue&amp;hide_border=true&amp;timezone=Asia%2FKolkata&amp;mode=daily&amp;disable_animations=true&amp;starting_year=2021" width="495" alt="Pranjal's GitHub contribution streak and all-time publicly visible contributions">
 </a>
 
 [View my contribution graph](https://github.com/pranjalsinggh#js-contribution-activity-description) · [Browse all repositories](https://github.com/pranjalsinggh?tab=repositories)
