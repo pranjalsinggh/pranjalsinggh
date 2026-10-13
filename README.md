@@ -111,10 +111,10 @@ Hands-on practice with the foundations behind data analysis:
 <div align="center">
 
 <a href="https://github.com/pranjalsinggh">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranjalsinggh&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;icon_color=818CF8&amp;cache_seconds=21600" alt="Pranjal's public GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranjalsinggh&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;icon_color=818CF8&amp;cache_seconds=43200" alt="Pranjal's public GitHub statistics">
 </a>
 <a href="https://github.com/pranjalsinggh?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsinggh&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;cache_seconds=21600" alt="Languages used in Pranjal's public repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsinggh&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;cache_seconds=172800" alt="Languages used in Pranjal's public repositories">
 </a>
 
 <br>
