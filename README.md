@@ -59,6 +59,21 @@ I build AI-powered tools that turn conversations and research into useful insigh
 
 ---
 
+<!-- KAGGLE-ACHIEVEMENTS:START -->
+## Kaggle achievements
+
+| Competition | Achieved position | Technical work |
+|---|---:|---|
+| [Petals to the Metal](https://github.com/pranjalsinggh/kaggle-achievements/tree/main/projects/petals-to-the-metal) | **12 / 50 teams** · **0.94693 macro F1** | 104-class EfficientNet ensemble, mixed-precision training on two T4 GPUs, four-view prediction averaging |
+| [Connect X](https://github.com/pranjalsinggh/kaggle-achievements/tree/main/projects/connect-x) | **41 / 255 teams** | Native C++ bitboard agent, iterative deepening, alpha-beta pruning, transposition caching |
+
+October 25, 2026 snapshot of ongoing Getting Started leaderboards; ranks can change.
+
+**[Explore the code, methods, results, and screenshot evidence →](https://github.com/pranjalsinggh/kaggle-achievements)** · [Kaggle profile](https://www.kaggle.com/pranjalsinggh)
+<!-- KAGGLE-ACHIEVEMENTS:END -->
+
+---
+
 ## Featured projects
 
 ### 01 · ChatScope
